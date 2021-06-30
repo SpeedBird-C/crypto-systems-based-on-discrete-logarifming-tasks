@@ -1,0 +1,3 @@
+The CBC (Cipher Block Chaining) mode (Fig. 2) provides this by using an initialization vector – IV.
+The IV has the same size as the block that is encrypted. In general, the IV usually is a random number, not a nonce.
+
